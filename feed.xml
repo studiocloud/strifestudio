@@ -1,82 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>By Strife Studio</title>
-    <link href="https://zigzagfira.github.io/By-Strife-Studio/feed.xml" rel="self" />
-    <link href="https://zigzagfira.github.io/By-Strife-Studio" />
-    <updated>2023-07-11T22:31:03+05:30</updated>
+    <title>From Strife Studio</title>
+    <link href="https://studiocloud.github.io/strifestudio/feed.xml" rel="self" />
+    <link href="https://studiocloud.github.io/strifestudio" />
+    <updated>2023-07-12T00:11:51+05:30</updated>
     <author>
         <name>by Strife Team</name>
     </author>
-    <id>https://zigzagfira.github.io/By-Strife-Studio</id>
+    <id>https://studiocloud.github.io/strifestudio</id>
 
     <entry>
-        <title>Spider Logo Design Inspirations for Brand Identity Design</title>
+        <title>Skin Care Logo Design Inspirations for Brand Identity Design</title>
         <author>
             <name>by Strife Team</name>
         </author>
-        <link href="https://zigzagfira.github.io/By-Strife-Studio/spider-logo-design-ideas.html"/>
-        <id>https://zigzagfira.github.io/By-Strife-Studio/spider-logo-design-ideas.html</id>
-        <media:content url="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/spider-logo-ideas.jpg" medium="image" />
+        <link href="https://studiocloud.github.io/strifestudio/skin-care-logo-design-inspirations-for-brand-identity-design.html"/>
+        <id>https://studiocloud.github.io/strifestudio/skin-care-logo-design-inspirations-for-brand-identity-design.html</id>
+        <media:content url="https://studiocloud.github.io/strifestudio/media/posts/8/skincare-logo-ideas.jpg" medium="image" />
             <category term="Inspirations"/>
 
-        <updated>2023-07-11T22:31:03+05:30</updated>
+        <updated>2023-07-12T00:11:51+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/spider-logo-ideas.jpg" alt="" />
+                        <img src="https://studiocloud.github.io/strifestudio/media/posts/8/skincare-logo-ideas.jpg" alt="" />
                     Need a Logo or Rebrand? Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/spider-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://studiocloud.github.io/strifestudio/media/posts/8/skincare-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Alberto-Bernabe.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alberto-Bernabe-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alberto-Bernabe-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alberto-Bernabe-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alberto-Bernabe-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alberto-Bernabe-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Dalibor-Pajic.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Dalibor-Pajic-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Dalibor-Pajic-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Dalibor-Pajic-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Dalibor-Pajic-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Dalibor-Pajic-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Alex-Anderson.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alex-Anderson-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alex-Anderson-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alex-Anderson-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alex-Anderson-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Alex-Anderson-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Insigniada.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/AMdesignspack.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/AMdesignspack-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/AMdesignspack-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/AMdesignspack-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/AMdesignspack-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/AMdesignspack-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Insigniada2.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada2-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada2-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada2-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada2-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Insigniada2-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Ivan.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Lazar-Bogicevic.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Lazar-Bogicevic-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Lazar-Bogicevic-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Lazar-Bogicevic-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Lazar-Bogicevic-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Lazar-Bogicevic-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Ivan2.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan2-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan2-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan2-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan2-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Ivan2-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Mustafa-Akuelker.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Mustafa-Akuelker-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Mustafa-Akuelker-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Mustafa-Akuelker-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Mustafa-Akuelker-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Mustafa-Akuelker-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Lara-Iskritskaya.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Lara-Iskritskaya-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Lara-Iskritskaya-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Lara-Iskritskaya-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Lara-Iskritskaya-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Lara-Iskritskaya-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Olga.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Olga-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Olga-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Olga-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Olga-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Olga-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Nagual.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nagual-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nagual-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nagual-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nagual-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nagual-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Ross-Bruggink.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Ross-Bruggink-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Ross-Bruggink-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Ross-Bruggink-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Ross-Bruggink-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Ross-Bruggink-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Nikoloz-Molodinashvili.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nikoloz-Molodinashvili-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nikoloz-Molodinashvili-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nikoloz-Molodinashvili-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nikoloz-Molodinashvili-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Nikoloz-Molodinashvili-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Stan-Aleyn.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Stan-Aleyn-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Stan-Aleyn-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Stan-Aleyn-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Stan-Aleyn-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Stan-Aleyn-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Rihan-Art.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Rihan-Art-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Rihan-Art-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Rihan-Art-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Rihan-Art-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Rihan-Art-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Susana-Costa.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Susana-Costa-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Susana-Costa-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Susana-Costa-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Susana-Costa-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Susana-Costa-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/Yuri-Kartashev.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Yuri-Kartashev-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Yuri-Kartashev-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Yuri-Kartashev-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Yuri-Kartashev-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/6/responsive/Yuri-Kartashev-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/8/Vick-Ben.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Vick-Ben-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Vick-Ben-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Vick-Ben-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Vick-Ben-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/8/responsive/Vick-Ben-xl.jpg 1600w">
+      
+    </figure>
+
+    <h2 id="need-a-logo-or-rebrand">
+      Need a Logo or Rebrand?
+    </h2>
+
+  <p>
+    Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves a lasting impression. Elevate your business today!
+  </p>
+<div class="button01"><button onclick="window.location.href='https://strifestudio.com/';">
+      Get Started!
+    </button>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cooking Logo Design Inspirations for Brand Identity Design</title>
+        <author>
+            <name>by Strife Team</name>
+        </author>
+        <link href="https://studiocloud.github.io/strifestudio/cooking-logo-design-inspirations-for-brand-identity-design.html"/>
+        <id>https://studiocloud.github.io/strifestudio/cooking-logo-design-inspirations-for-brand-identity-design.html</id>
+        <media:content url="https://studiocloud.github.io/strifestudio/media/posts/7/cooking-logo-ideas.jpg" medium="image" />
+            <category term="Inspirations"/>
+
+        <updated>2023-07-12T00:09:28+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://studiocloud.github.io/strifestudio/media/posts/7/cooking-logo-ideas.jpg" alt="" />
+                    Need a Logo or Rebrand? Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://studiocloud.github.io/strifestudio/media/posts/7/cooking-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Abrar-Jahin.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Abrar-Jahin-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Abrar-Jahin-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Abrar-Jahin-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Abrar-Jahin-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Abrar-Jahin-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Benjamin-Oberemok.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Benjamin-Oberemok-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Benjamin-Oberemok-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Benjamin-Oberemok-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Benjamin-Oberemok-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Benjamin-Oberemok-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Daniel-Bodea.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Daniel-Bodea2.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea2-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea2-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea2-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea2-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Daniel-Bodea2-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Dan-Lehman.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Dan-Lehman-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Dan-Lehman-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Dan-Lehman-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Dan-Lehman-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Dan-Lehman-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Erik-Weikert.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Erik-Weikert-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Erik-Weikert-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Erik-Weikert-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Erik-Weikert-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Erik-Weikert-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Felipe-Mandiola.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Felipe-Mandiola-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Felipe-Mandiola-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Felipe-Mandiola-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Felipe-Mandiola-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Felipe-Mandiola-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/graph_uvarov.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/graph_uvarov-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/graph_uvarov-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/graph_uvarov-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/graph_uvarov-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/graph_uvarov-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Hazzaa-Al-Ameri.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Hazzaa-Al-Ameri-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Hazzaa-Al-Ameri-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Hazzaa-Al-Ameri-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Hazzaa-Al-Ameri-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Hazzaa-Al-Ameri-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/7/Ted-Kulakevich.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Ted-Kulakevich-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Ted-Kulakevich-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Ted-Kulakevich-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Ted-Kulakevich-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/7/responsive/Ted-Kulakevich-xl.jpg 1600w">
+      
+    </figure>
+
+    <h2 id="need-a-logo-or-rebrand">
+      Need a Logo or Rebrand?
+    </h2>
+
+  <p>
+    Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves a lasting impression. Elevate your business today!
+  </p>
+<div class="button01"><button onclick="window.location.href='https://strifestudio.com/';">
+      Get Started!
+    </button>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spider Logo Design Inspirations for Brand Identity Design</title>
+        <author>
+            <name>by Strife Team</name>
+        </author>
+        <link href="https://studiocloud.github.io/strifestudio/spider-logo-design-ideas.html"/>
+        <id>https://studiocloud.github.io/strifestudio/spider-logo-design-ideas.html</id>
+        <media:content url="https://studiocloud.github.io/strifestudio/media/posts/6/spider-logo-ideas.jpg" medium="image" />
+            <category term="Inspirations"/>
+
+        <updated>2023-07-11T22:31:03+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://studiocloud.github.io/strifestudio/media/posts/6/spider-logo-ideas.jpg" alt="" />
+                    Need a Logo or Rebrand? Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://studiocloud.github.io/strifestudio/media/posts/6/spider-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Alberto-Bernabe.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alberto-Bernabe-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alberto-Bernabe-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alberto-Bernabe-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alberto-Bernabe-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alberto-Bernabe-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Alex-Anderson.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alex-Anderson-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alex-Anderson-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alex-Anderson-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alex-Anderson-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Alex-Anderson-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/AMdesignspack.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/AMdesignspack-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/AMdesignspack-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/AMdesignspack-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/AMdesignspack-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/AMdesignspack-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Ivan.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Ivan2.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan2-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan2-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan2-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan2-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Ivan2-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Lara-Iskritskaya.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Lara-Iskritskaya-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Lara-Iskritskaya-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Lara-Iskritskaya-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Lara-Iskritskaya-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Lara-Iskritskaya-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Nagual.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nagual-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nagual-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nagual-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nagual-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nagual-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Nikoloz-Molodinashvili.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nikoloz-Molodinashvili-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nikoloz-Molodinashvili-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nikoloz-Molodinashvili-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nikoloz-Molodinashvili-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Nikoloz-Molodinashvili-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Rihan-Art.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Rihan-Art-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Rihan-Art-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Rihan-Art-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Rihan-Art-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Rihan-Art-xl.jpg 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/6/Yuri-Kartashev.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Yuri-Kartashev-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Yuri-Kartashev-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Yuri-Kartashev-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Yuri-Kartashev-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/6/responsive/Yuri-Kartashev-xl.jpg 1600w">
       
     </figure>
 
@@ -99,69 +269,69 @@
         <author>
             <name>by Strife Team</name>
         </author>
-        <link href="https://zigzagfira.github.io/By-Strife-Studio/raven-logo-ideas.html"/>
-        <id>https://zigzagfira.github.io/By-Strife-Studio/raven-logo-ideas.html</id>
-        <media:content url="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/raven-logo-ideas.jpg" medium="image" />
+        <link href="https://studiocloud.github.io/strifestudio/raven-logo-ideas.html"/>
+        <id>https://studiocloud.github.io/strifestudio/raven-logo-ideas.html</id>
+        <media:content url="https://studiocloud.github.io/strifestudio/media/posts/2/raven-logo-ideas.jpg" medium="image" />
             <category term="Inspirations"/>
 
         <updated>2023-07-11T21:32:10+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/raven-logo-ideas.jpg" alt="" />
+                        <img src="https://studiocloud.github.io/strifestudio/media/posts/2/raven-logo-ideas.jpg" alt="" />
                     Need a Logo or Rebrand? Unleash your brand’s potential with our world-class designers. Get a captivating logo design that leaves&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/raven-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://studiocloud.github.io/strifestudio/media/posts/2/raven-logo-ideas.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Alex-Seciu.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Alex-Seciu-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Alex-Seciu-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Alex-Seciu-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Alex-Seciu-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Alex-Seciu-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Alex-Seciu.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Alex-Seciu-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Alex-Seciu-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Alex-Seciu-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Alex-Seciu-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Alex-Seciu-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Andrew-Korepan.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Andrew-Korepan-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Andrew-Korepan-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Andrew-Korepan-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Andrew-Korepan-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Andrew-Korepan-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Andrew-Korepan.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Andrew-Korepan-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Andrew-Korepan-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Andrew-Korepan-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Andrew-Korepan-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Andrew-Korepan-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Badr-Edd.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Badr-Edd-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Badr-Edd-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Badr-Edd-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Badr-Edd-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Badr-Edd-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Badr-Edd.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Badr-Edd-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Badr-Edd-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Badr-Edd-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Badr-Edd-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Badr-Edd-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/brandosaur.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/brandosaur-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/brandosaur-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/brandosaur-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/brandosaur-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/brandosaur-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/brandosaur.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/brandosaur-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/brandosaur-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/brandosaur-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/brandosaur-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/brandosaur-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Lucian-Radu.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Lucian-Radu-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Lucian-Radu-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Lucian-Radu-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Lucian-Radu-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Lucian-Radu-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Lucian-Radu.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Lucian-Radu-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Lucian-Radu-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Lucian-Radu-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Lucian-Radu-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Lucian-Radu-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Mersad-Comaga.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Mersad-Comaga-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Mersad-Comaga-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Mersad-Comaga-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Mersad-Comaga-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Mersad-Comaga-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Mersad-Comaga.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Mersad-Comaga-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Mersad-Comaga-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Mersad-Comaga-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Mersad-Comaga-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Mersad-Comaga-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Morcoil.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Morcoil-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Morcoil-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Morcoil-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Morcoil-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Morcoil-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Morcoil.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Morcoil-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Morcoil-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Morcoil-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Morcoil-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Morcoil-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Petar-Shalamanov.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Petar-Shalamanov-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Petar-Shalamanov-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Petar-Shalamanov-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Petar-Shalamanov-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Petar-Shalamanov-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Petar-Shalamanov.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Petar-Shalamanov-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Petar-Shalamanov-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Petar-Shalamanov-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Petar-Shalamanov-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Petar-Shalamanov-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/Stevan-Rodic.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Stevan-Rodic-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Stevan-Rodic-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Stevan-Rodic-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Stevan-Rodic-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/Stevan-Rodic-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/Stevan-Rodic.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Stevan-Rodic-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Stevan-Rodic-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Stevan-Rodic-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Stevan-Rodic-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/Stevan-Rodic-xl.jpg 1600w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/UNOM-design.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/UNOM-design-xs.jpg 384w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/UNOM-design-sm.jpg 600w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/UNOM-design-md.jpg 768w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/UNOM-design-lg.jpg 1200w ,https://zigzagfira.github.io/By-Strife-Studio/media/posts/2/responsive/UNOM-design-xl.jpg 1600w">
+      <img loading="lazy" src="https://studiocloud.github.io/strifestudio/media/posts/2/UNOM-design.jpg" height="1080" width="1080" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://studiocloud.github.io/strifestudio/media/posts/2/responsive/UNOM-design-xs.jpg 384w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/UNOM-design-sm.jpg 600w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/UNOM-design-md.jpg 768w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/UNOM-design-lg.jpg 1200w ,https://studiocloud.github.io/strifestudio/media/posts/2/responsive/UNOM-design-xl.jpg 1600w">
       
     </figure>
 
