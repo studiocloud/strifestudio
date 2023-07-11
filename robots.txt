@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zigzagfira.github.io/By-Strife-Studio/sitemap.xml
